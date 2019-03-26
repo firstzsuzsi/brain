@@ -1,0 +1,7 @@
+
+:RESOURCES:
+- [[https://thomas-cokelaer.info/tutorials/python/module_os.html][Functions Cheatsheet 2.0 (With some functions better explained)]]
+- [[https://www.pythonforbeginners.com/os/pythons-os-module][Functions Cheatsheet]]
+:END:
+#+BRAIN_PARENTS: Modules
+

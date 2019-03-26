@@ -1,0 +1,6 @@
+:RESOURCES:
+- [[https://www.programiz.com/python-programming/methods/string][Cheatsheet]]
+- [[https://docs.python.org/2/library/string.html][List with definitions]]
+:END:
+#+BRAIN_PARENTS: Methods
+

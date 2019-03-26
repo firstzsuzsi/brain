@@ -1,0 +1,9 @@
+#+BRAIN_PARENTS: Python
+
+* Star (*)
+  :PROPERTIES:
+  :ID:       21b42412-99c0-4853-9065-d66b009fc030
+  :END:
+  :RESOURCES:
+  - [[https://www.tutorialspoint.com/What-does-the-Star-operator-mean-in-Python][Common use cases]]
+  :END:

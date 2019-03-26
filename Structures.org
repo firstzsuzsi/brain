@@ -1,0 +1,24 @@
+:RESOURCES:
+:END:
+#+BRAIN_PARENTS: Python
+* Sets
+  :PROPERTIES:
+  :ID:       c9000f55-c38b-454a-ac5e-3467791b7365
+  :END:
+  :RESOURCES:
+  - [[https://www.w3schools.com/python/python_sets.asp][Introduction]]
+  :END:
+* Tuples
+  :PROPERTIES:
+  :ID:       cd923554-c344-47f1-bfad-d6ff0886612f
+  :END:
+  :RESOURCES:
+  - [[https://www.tutorialspoint.com/python/python_tuples.htm][Comprehensive introduction]]
+  :END:
+* Dictionaries
+  :PROPERTIES:
+  :ID:       2229fe97-45a5-43dd-9495-6cb42e8516f5
+  :END:
+  :RESOURCES:
+  - [[https://realpython.com/python-dicts/#defining-a-dictionary][Comprehensive introduction]]
+  :END:

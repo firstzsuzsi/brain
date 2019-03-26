@@ -1,0 +1,5 @@
+:RESOURCES:
+- [[https://docs.python.org/2/library/re.html][Python documentation regexp section]]
+:END:
+#+BRAIN_PARENTS: Modules
+

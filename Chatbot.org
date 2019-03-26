@@ -1,0 +1,7 @@
+:RESOURCES:
+- [[https://towardsdatascience.com/chatbots-are-cool-a-framework-using-python-part-1-overview-7c69af7a7439][Introduction]]
+:END:
+#+BRAIN_FRIENDS: Python NLP
+
+#+BRAIN_PARENTS: Goals
+

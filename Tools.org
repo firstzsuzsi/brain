@@ -1,0 +1,4 @@
+#+BRAIN_CHILDREN: Languages CLI%20Tools GUI%20Tools
+
+#+BRAIN_FRIENDS: Goals
+

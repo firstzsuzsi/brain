@@ -1,0 +1,5 @@
+:RESOURCES:
+- [[https://www.programiz.com/python-programming/time][Functions Cheatsheet]]
+:END:
+#+BRAIN_PARENTS: Modules
+

@@ -1,0 +1,19 @@
+:RESOURCES:
+
+:END:
+#+BRAIN_PARENTS: Python
+
+* Generators
+  :PROPERTIES:
+  :ID:       f29e286d-1101-4d20-8968-511354e31d85
+  :END:
+  :RESOURCES:
+  - [[https://www.programiz.com/python-programming/generator][Overview, usecases]]
+  :END:
+* For loop
+  :PROPERTIES:
+  :ID:       7f4761d0-59a6-4ef0-8d59-f751f6127357
+  :END:
+  :RESOURCES:
+  - [[https://opensource.com/article/18/3/loop-better-deeper-look-iteration-python][Understand iteration in Python through the inner workings of a for loop]]
+  :END:

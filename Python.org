@@ -1,0 +1,17 @@
+#+BRAIN_CHILDREN: Modules Methods Structures Flow%20control Operators
+
+:RESOURCES:
+:END:
+#+BRAIN_FRIENDS: Chatbot Data%20Science NLP
+
+#+BRAIN_PARENTS: Languages
+
+* I/O
+  :PROPERTIES:
+  :ID:       46772868-887c-4d59-b97c-7e4a4f814417
+  :END:
+
+** STD I/O
+   :PROPERTIES:
+   :ID:       9b87bd6e-e139-42c5-a38e-a63b71d3d57e
+   :END:
